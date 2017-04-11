@@ -3,7 +3,7 @@
 ## Book for the Term
 [*Machine Learning: The new AI*, Ethem Alpaydin](https://www.amazon.com/Machine-Learning-Press-Essential-Knowledge/dp/0262529513)
 
-### Book Assignment
+### Book Lecture 1 Assignment
 Chapters 1 & 2
 
 
