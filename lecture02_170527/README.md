@@ -1,31 +1,33 @@
-# Lecture 1 Readings
+# Lecture 2 Readings
 ___
 
-### Book Lecture 1 Assignment
-Alpaydin Chapters 1 & 2
+### Book Lecture 2 Assignment
+Alpaydin Chapter 3
 
-### Papers Lecture 1 Assignment
+### Papers Lecture 2 Assignment
 ```
-Big data and new knowledge in medicine: the thinking, training, and tools needed for a learning health system.
+The Parable of Google Flu: Traps in Big Data Analysis.
 
-Harlan M Krumholz.
+David Lazer, Ryan Kennedy, Gary King, and Alessandro Vespignani.
 
-Big data in medicine--massive quantities of health care data accumulating from patients and populations and the advanced analytics that can give those data meaning--hold the prospect of becoming an engine for the knowledge generation that is necessary to address the extensive unmet information needs of patients, clinicians, administrators, researchers, and health policy makers. This article explores the ways in which big data can be harnessed to advance prediction, performance, discovery, and comparative effectiveness research to address the complexity of patients, populations, and organizations. Incorporating big data and next-generation analytics into clinical and population health research and practice will require not only new data sources but also new thinking, training, and tools. Adequately utilized, these reservoirs of data can be a practically inexhaustible source of knowledge to fuel a learning health care system.
+In February 2013, Google Flu Trends (GFT) made headlines but not for a reason that Google executives or the creators of the flu tracking system would have hoped. Nature reported that GFT was predicting more than double the proportion of doctor visits for influenza-like illness (ILI) than the Centers for Disease Control and Prevention (CDC), which bases its estimates on surveillance reports from laboratories across the United States ( 1 , 2 ). This happened despite the fact that GFT was built to predict CDC reports. Given that GFT is often held up as an exemplary use of big data ( 3 , 4 ), what lessons can we draw from this error?
 
-Health Aff (Millwood), 2014 vol. 33 (7) pp. 1163-1170.
+Science, 2014 vol. 343 (6176) pp. 1203-1205.
 
-http://content.healthaffairs.org/content/33/7/1163.full
+http://ieeexplore.ieee.org/document/6113109/
 ```
 ```
-Predicting the Future — Big Data, Machine Learning, and Clinical Medicine.
+Machine Learning and the Profession of Medicine.
 
-Ziad Obermeyer and Ezekiel J Emanuel.
+Alison M Darcy, Alan K Louie, and Laura Weiss Roberts.
 
-N Engl J Med, 2016 vol. 375 (13) pp. 1216-1219.
+This Viewpoint discusses the opportunities and ethical implications of using machine learning technologies, which can rapidly collect and learn from large amounts of personal data, to provide individalized patient care.
 
-http://www.nejm.org/doi/10.1056/NEJMp1606181
+JAMA, 2016 vol. 315 (6) pp. 551-552.
+
+http://jama.jamanetwork.com/article.aspx?doi=10.1001/jama.2015.18421
 ```
 ___
 ### Discussion Questions
-1. As Harlan Krumholz describes, over the last decade other industries have been taking advantage of 'big data' and 'machine learning'. Why hasn't this happened in healthcare? What are the main barriers? And how do we surmount them?
-2. Obermeyer and Emanuel's *NEJM* editorial paints a sanguine picture of what machine learning will bring to clinical medicine. What fallacies do they point out? Importantly, what do they fail to point out? They point to three areas of disruption; what potential issues are they glossing over?
+1. Lazer *et. al.* talks about "big data hubris". When is data being "bigger" not necessarily better? What about the issue of transparency and reproducibility?
+2. Darcy *et. al.* raises the issue of privacy. Are privacy and machine learning reconcilable?
