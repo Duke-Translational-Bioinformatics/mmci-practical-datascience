@@ -1,7 +1,8 @@
 # Lecture 1 Readings
+___
 
 ### Book Lecture 1 Assignment
-Chapters 1 & 2
+Alpaydin Chapters 1 & 2
 
 ### Papers Lecture 1 Assignment
 ```
@@ -24,7 +25,10 @@ N Engl J Med, 2016 vol. 375 (13) pp. 1216-1219.
 
 http://www.nejm.org/doi/10.1056/NEJMp1606181
 ```
-
+___
+## Discussion Questions
+1. As Harlan Krumholz describes, over the last decade other industries have been taking advantage of 'big data' and 'machine learning'. Why hasn't this happened in healthcare? What are the main barriers? And how do we surmount them?
+2. Obermeyer and Emanuel's *NEJM* editorial paints a sanguine picture of what machine learning will bring to clinical medicine. What fallacies do they point out? Importantly, what do they fail to point out? They point to three areas of disruption; what potential issues are they glossing over?
 
 
 
