@@ -1,33 +1,39 @@
-# Lecture 2 Readings
+# Lecture 3 Readings
 ___
 
-### Book Lecture 2 Assignment
-Alpaydin Chapter 3
+### Book Lecture 3 Assignment
+Alpaydin Chapter 4
 
-### Papers Lecture 2 Assignment
+### Papers Lecture 3 Assignment
 ```
-The Parable of Google Flu: Traps in Big Data Analysis.
+Development and Validation of a Deep Learning Algorithm for Detection of Diabetic Retinopathy in Retinal Fundus Photographs.
 
-David Lazer, Ryan Kennedy, Gary King, and Alessandro Vespignani.
+Varun Gulshan, Lily Peng, Marc Coram, Martin C Stumpe, Derek Wu, Arunachalam Narayanaswamy, Subhashini Venugopalan, Kasumi Widner, Tom Madams, Jorge Cuadros, Ramasamy Kim, Rajiv Raman, Philip C Nelson, Jessica L Mega, and Dale R Webster.
 
-In February 2013, Google Flu Trends (GFT) made headlines but not for a reason that Google executives or the creators of the flu tracking system would have hoped. Nature reported that GFT was predicting more than double the proportion of doctor visits for influenza-like illness (ILI) than the Centers for Disease Control and Prevention (CDC), which bases its estimates on surveillance reports from laboratories across the United States ( 1 , 2 ). This happened despite the fact that GFT was built to predict CDC reports. Given that GFT is often held up as an exemplary use of big data ( 3 , 4 ), what lessons can we draw from this error?
+**Importance** Deep learning is a family of computational methods that allow an algorithm to program itself by learning from a large set of examples that demonstrate the desired behavior, removing the need to specify rules explicitly. Application of these methods to medical imaging requires further assessment and validation.
+**Objective** To apply deep learning to create an algorithm for automated detection of diabetic retinopathy and diabetic macular edema in retinal fundus photographs.
+**Design and Setting** A specific type of neural network optimized for image classification called a deep convolutional neural network was trained using a retrospective development data set of 128 175 retinal images, which were graded 3 to 7 times for diabetic retinopathy, diabetic macular edema, and image gradability by a panel of 54 US licensed ophthalmologists and ophthalmology senior residents between May and December 2015. The resultant algorithm was validated in January and February 2016 using 2 separate data sets, both graded by at least 7 US board-certified ophthalmologists with high intragrader consistency.
+**Exposure** Deep learning–trained algorithm.
+**Main Outcomes and Measures** The sensitivity and specificity of the algorithm for detecting referable diabetic retinopathy (RDR), defined as moderate and worse diabetic retinopathy, referable diabetic macular edema, or both, were generated based on the reference standard of the majority decision of the ophthalmologist panel. The algorithm was evaluated at 2 operating points selected from the development set, one selected for high specificity and another for high sensitivity.
+**Results** The EyePACS-1 data set consisted of 9963 images from 4997 patients (mean age, 54.4 years; 62.2% women; prevalence of RDR, 683/8878 fully gradable images [7.8%]); the Messidor-2 data set had 1748 images from 874 patients (mean age, 57.6 years; 42.6% women; prevalence of RDR, 254/1745 fully gradable images [14.6%]). For detecting RDR, the algorithm had an area under the receiver operating curve of 0.991 (95% CI, 0.988-0.993) for EyePACS-1 and 0.990 (95% CI, 0.986-0.995) for Messidor-2. Using the first operating cut point with high specificity, for EyePACS-1, the sensitivity was 90.3% (95% CI, 87.5%-92.7%) and the specificity was 98.1% (95% CI, 97.8%-98.5%). For Messidor-2, the sensitivity was 87.0% (95% CI, 81.1%-91.0%) and the specificity was 98.5% (95% CI, 97.7%-99.1%). Using a second operating point with high sensitivity in the development set, for EyePACS-1 the sensitivity was 97.5% and specificity was 93.4% and for Messidor-2 the sensitivity was 96.1% and specificity was 93.9%.
+**Conclusions and Relevance** In this evaluation of retinal fundus photographs from adults with diabetes, an algorithm based on deep machine learning had high sensitivity and specificity for detecting referable diabetic retinopathy. Further research is necessary to determine the feasibility of applying this algorithm in the clinical setting and to determine whether use of the algorithm could lead to improved care and outcomes compared with current ophthalmologic assessment.
 
-Science, 2014 vol. 343 (6176) pp. 1203-1205.
+JAMA, 2016 vol. 316 (22) pp. 2402-2410.
 
-http://ieeexplore.ieee.org/document/6113109/
+http://jama.jamanetwork.com/article.aspx?doi=10.1001/jama.2016.17216
 ```
 ```
-Machine Learning and the Profession of Medicine.
+Google DeepMind and healthcare in an age of algorithms.
 
-Alison M Darcy, Alan K Louie, and Laura Weiss Roberts.
+Julia Powles and Hal Hodson.
 
-This Viewpoint discusses the opportunities and ethical implications of using machine learning technologies, which can rapidly collect and learn from large amounts of personal data, to provide individalized patient care.
+Data-driven tools and techniques, particularly machine learning methods that underpin artificial intelligence, offer promise in improving healthcare systems and services. One of the companies aspiring
 
-JAMA, 2016 vol. 315 (6) pp. 551-552.
+Health Technol, 2017 vol. 29 (7) pp. 1-17.
 
-http://jama.jamanetwork.com/article.aspx?doi=10.1001/jama.2015.18421
+https://link.springer.com/article/10.1007/s12553-017-0179-1
 ```
 ___
 ### Discussion Questions
-1. Lazer *et. al.* talks about "big data hubris". When is data being "bigger" not necessarily better? What about the issue of transparency and reproducibility?
-2. Darcy *et. al.* raises the issue of privacy. Are privacy and machine learning reconcilable?
+1. For Gulshan *et. al.*, what clinical endpoint did they choose, and why is this important? Why do they spend a great deal of time discussing operating points?
+2. The former article represents Google at its best when applied to healthcare, Powles & Hodson's paper represents Google at its worst. Is this an overreaction? Let's discuss the balancing act between privacy and the "power" of machine learning.
