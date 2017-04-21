@@ -25,7 +25,7 @@ Class discussion is an essential element of this course. We will have written ca
 
 ### Grading
 ITEM | DUE DATE | PERCENTAGE
-==== | ======== | ==========
+---- | -------- | ----------
 Deliverable 1 (group grade) | Date | 20%
 Deliverable 2 (group grade) | Date | 20%
 Deliverable 3 (grop grade) | Date | 40%
