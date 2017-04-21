@@ -37,3 +37,43 @@ ___
 ### Discussion Questions
 1. For Gulshan *et. al.*, what clinical endpoint did they choose, and why is this important? Why do they spend a great deal of time discussing operating points?
 2. The former article represents Google at its best when applied to healthcare, Powles & Hodson's paper represents Google at its worst. Is this an overreaction? Let's discuss the balancing act between privacy and the "power" of machine learning.
+
+___
+### Case Study: Flatiron Health
+```
+At Flatiron Health, Doctors And Developers Work On Cracking The Code For Better Cancer Treatment.
+
+David Zax.
+
+At the Google-backed tech company, physicians and engineers work side by side to improve workflow in oncology clinics—and help fix America’s broken health care system.
+```
+https://www.fastcompany.com/3067893/at-flatiron-health-keeping-the-doctor-close
+
+```
+Why is clinical research so messed up and how can it be fixed? - MedCity News.
+
+Andrew Zaleski.
+
+The panel discussion at the Association of Community Cancer Centers highlighted some of the inherent challenges in doing clinical trials and ways to work towards overcoming them.
+
+MedCity News, 2017.
+```
+http://medcitynews.com/2017/03/clinical-research-messed-can-fixed/
+
+```
+Using Real-World Evidence in the Cancer Care Continuum.
+
+Kathy Boltz.
+
+obroncology.com.
+```
+http://obroncology.com/article/using-real-world-evidence-in-the-cancer-care-continuum/
+
+```
+Treatment Patterns for Advanced Non–Small-cell Lung Cancer After Platinum-containing Therapy in U.S. Community Oncology Clinical Practice.
+
+Caroline McKay, Thomas Burke, Xiting Cao, Amy P Abernethy, and David P Carbone.
+
+Clinical Lung Cancer, 2016 vol. 17 (5) pp. 449-460.e7.
+```
+http://linkinghub.elsevier.com/retrieve/pii/S1525730416300547
