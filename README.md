@@ -27,8 +27,8 @@ Class discussion is an essential element of this course. We will have written ca
 ITEM | DUE DATE | PERCENTAGE
 ---- | -------- | ----------
 Deliverable 1 (group grade) | Date | 20%
-Deliverable 2 (group grade) | Date | 20%
-Deliverable 3 (grop grade) | Date | 40%
+Debate (group grade) | Date | 20%
+Startup Challenge (group grade) | Date | 40%
 Class Participation | Term | 20%
 
 ### Tardiness
