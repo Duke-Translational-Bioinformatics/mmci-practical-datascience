@@ -10,8 +10,8 @@ Erich S. Huang
 Ben Neely
 
 ### Location & Time
-Fridays 11:00 to 14:30 (Lunch 12:00 to 13:00)
-Saturdays 08:00 to 10:45
+* Fridays 11:00 to 14:30 (Lunch 12:00 to 13:00)
+* Saturdays 08:00 to 10:45
 
 ### Course Objective
 To understand where the tools of data science intersect with healthcare. Exposure to principals of machine learning with practical contact using the Microsoft Azure ML platform. Exposure to technologies such as Infastructure-as-a-Service, architectural principles such as service-oriented architecture and microservices. Use cases where data science paradigms and technologies have or have the potential to deliver real world impact.
