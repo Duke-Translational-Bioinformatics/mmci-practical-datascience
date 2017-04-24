@@ -26,9 +26,9 @@ Class discussion is an essential element of this course. We will have written ca
 ### Grading
 ITEM | DUE DATE | PERCENTAGE
 ---- | -------- | ----------
-Deliverable 1 (group grade) | Date | 20%
+"If you were going to Open Source..." (group grade) | Date | 20%
 Predictive Modeling Challenge (group grade) | Date | 20%
- (group grade) | Date | 40%
+Oxford-Style Debate tourney (group grade) | Date | 40%
 Class Participation | Term | 20%
 
 ### Tardiness
