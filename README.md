@@ -3,8 +3,8 @@
 Erich S. Huang
 
 ### Guest Lecturers
-John Doe
-Jane Doe
+* John Doe
+* Jane Doe
 
 ### Teaching Assistant
 Ben Neely
