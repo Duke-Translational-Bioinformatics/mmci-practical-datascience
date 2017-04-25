@@ -3,8 +3,8 @@
 Erich S. Huang
 
 ### Guest Lecturers
-* John Doe
-* Jane Doe
+* Kostas Christidis, IBM & NC State
+* Jane Doe, Red Hat
 
 ### Teaching Assistant
 Ben Neely
