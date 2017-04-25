@@ -10,6 +10,7 @@ Erich S. Huang
 Ben Neely
 
 ### Location & Time
+* Hock 2nd Floor, CRTP Classroom
 * Fridays 11:00 to 14:30 (Lunch 12:00 to 13:00)
 * Saturdays 08:00 to 10:45
 
