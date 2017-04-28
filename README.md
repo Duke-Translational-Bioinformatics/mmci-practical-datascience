@@ -1,6 +1,7 @@
 # mmci-practical-datascience
 ### Faculty
-Erich S. Huang
+[Erich S. Huang](erich.huang@duke.edu)
+Admin: [Yasii Mirdamadi](yasii.mirdamadi@duke.edu)
 
 ### Guest Lecturers
 * Kostas Christidis, IBM & NC State
