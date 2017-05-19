@@ -34,10 +34,10 @@ Class discussion is an essential element of this course. We will have written ca
 ### Grading
 ITEM | DUE DATE | PERCENTAGE
 ---- | -------- | ----------
-"If you were going to Open Source..." (group grade) | Date | 20%
+"If you were going to Open Source..." (group grade) | Date | 40%
 Predictive Modeling Challenge (individual grade) | Date | 20%
 Oxford-Style Debate tourney (group grade) | Date | 20%
-Class Participation (individual grade) | Term | 40%
+Class Participation (individual grade) | Term | 20%
 
 ### Tardiness
 It is an expectation that everyone will be on time to class. If you are tardy for 3 or more classes without prior approval from faculty, this will also reflect in you discussion grade.
