@@ -13,3 +13,6 @@ Friday, 8 July | Lecture 10 | 0800 - 1045 | "What is an EHR Supposed to Do?" | D
 Friday, 21 July | Lecture 11 | 1100 - Noon | Privacy
 Friday, 21 July | Lecture 12 | 1300 - 1430 | 
 Saturday, 22 July | Lecture 13 | 0800 - 1045 | Oxford-Style Debate | 
+Friday, 4 August | Lecture 14 | 1100 - Noon |
+Friday, 4 August | Lecture 15 | 1300 - 1430 | 
+Saturday, 5 August | Lecture 16 | 0800 - 1045 |
