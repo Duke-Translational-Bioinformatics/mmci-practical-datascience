@@ -1,5 +1,5 @@
-Date | Time | Lecture | Subject | Notes
----- | ---- | ------- | ------- | -----
+Date | Lecture | Time | Subject | Notes
+---- | ------- | ---- | ------- | -----
 Friday, 26 May | Lecture 1 | 1100 - Noon | Introduction
 Friday, 26 May | Lecture 2 | 1300 - 1430 | Machine Learning & Health | Introduction to Azure ML
 Saturday, 27 May | Lecture 3 | 1000 - 1230 | Deep Learning | Flatiron Health Case Study
