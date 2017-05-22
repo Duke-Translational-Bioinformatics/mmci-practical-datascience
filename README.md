@@ -16,7 +16,7 @@ Ben Neely
 * Saturdays 08:00 to 10:45
 
 ### Course Objective
-To understand where the tools of data science intersect with healthcare. Exposure to principals of machine learning with practical contact using the Microsoft Azure ML platform. Exposure to technologies such as Infastructure-as-a-Service, architectural principles such as service-oriented architecture and microservices. Use cases where data science paradigms and technologies have or have the potential to deliver real world impact.
+To understand where the tools of data science intersect with healthcare. Exposure to principles of machine learning with practical contact using the Microsoft Azure ML platform. Exposure to technologies such as Infastructure-as-a-Service, architectural principles such as service-oriented architecture and microservices. Use cases where data science paradigms and technologies have or have the potential to deliver real world impact.
 
 ### Course Overview
 This course is designed to introduce students to the tools and technologies of “data science” as they are applied in healthcare. Bill Cleveland, the famous computer scientist wrote that "Knowledge among computer scientists about how to think of and approach the analysis of data is limited, just as the knowledge of computing environments by statisticians is limited. A merger of the knowledge bases would produce a powerful force for innovation.” Everything we do in delivering health to our patients involves information: how it’s stored, how it’s moved around, how we extract meaning from it. Understanding the many principles, technologic, ethical, and regulatory issues surrounding this “merger”, is a requirement for leadership in the realm of biomedical informatics. Included in this course will be practical hands-on experience with plug and play machine learning tools via Microsoft Azure (no programming needed). Text for the class is *Machine Learning: The new AI*, Ethem Alpaydin. 
@@ -34,10 +34,10 @@ Class discussion is an essential element of this course. We will have written ca
 ### Grading
 ITEM | DUE DATE | PERCENTAGE
 ---- | -------- | ----------
-"If you were going to Open Source..." (group grade) | Date | 20%
-Predictive Modeling Challenge (group grade) | Date | 20%
-Oxford-Style Debate tourney (group grade) | Date | 40%
-Class Participation | Term | 20%
+"If you were going to Open Source..." (individual grade) | Date | 40%
+Predictive Modeling Challenge (individual grade) | Date | 20%
+Oxford-Style Debate tourney (group grade) | Date | 20%
+Class Participation (individual grade) | Term | 20%
 
 ### Tardiness
 It is an expectation that everyone will be on time to class. If you are tardy for 3 or more classes without prior approval from faculty, this will also reflect in you discussion grade.
