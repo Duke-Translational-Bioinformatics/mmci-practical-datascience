@@ -9,6 +9,6 @@ Friday, 23 June | Lecture 6 | 1300 - 1430 | Guest Lecturer: Red Hat TBD | Open S
 Saturday, 24 June | Lecture 7 | 0800 - 1045 | Azure ML Intensive Lab | Diabetes Readmissions
 Friday, 7 July | Lecture 8 | 1100 - Noon | Bias in Machine Learning
 Friday, 7 July | Lecture 9 | 1300 - 1430 | Analytics and Value
-Friday, 8 July | Lecture 10 | 0800 - 1045 | "What is an EHR Supposed to Do?": Debate prep
+Friday, 8 July | Lecture 10 | 0800 - 1045 | "What is an EHR Supposed to Do?" | Debate prep
 Friday, 21 July | Lecture 11 | 1100 - Noon | Privacy
 Friday, 21 July | Lecture 12 | 1300 - 1430 | 
