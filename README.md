@@ -23,6 +23,10 @@ This course is designed to introduce students to the tools and technologies of â
 
 The primary goal for the course is to help students think critically about how technology helps us solve problems for our patients. In an era of "Precision Medicine" that focuses on "getting the right therapy to the right patient at the right time", our aim is to provide a knowledge base with which to think critically about how technology and data science help us achieve that aim at the point of care or in the operational aspects of health delivery.
 
+### Course Readings
+* Book can be purchased from Amazon (see link below)
+* All readings *should* be accessible via the Duke network, therefore VPN in (so you have a Duke IP address) to access and download the readings from the links. Obviously, if you're on campus, you shouldn't have to VPN in.
+
 ### Class Participation and Attendance Policy
 Class attendance is mandatory. Attendance will be taken at every class. If you miss a class, you need to make up the class session. This can be accomplished by reviewing the recorded class lecture and submitting a page synopsis of the class to the professor within one week. The one page synopsis needs to contain references. If you miss a class without prior approval by faculty, there will be a reduction in your debate/discussion overall grade.
 * One missed class â€” 5% reduction in grade
@@ -34,10 +38,10 @@ Class discussion is an essential element of this course. We will have written ca
 ### Grading
 ITEM | DUE DATE | PERCENTAGE
 ---- | -------- | ----------
-"If you were going to Open Source..." (group grade) | Date | 20%
-Predictive Modeling Challenge (group grade) | Date | 20%
-Oxford-Style Debate tourney (group grade) | Date | 40%
-Class Participation | Term | 20%
+"If you were going to Open Source..." (individual grade) | Date | 40%
+Predictive Modeling Challenge (individual grade) | Date | 20%
+Oxford-Style Debate tourney (group grade) | Date | 20%
+Class Participation (individual grade) | Term | 20%
 
 ### Tardiness
 It is an expectation that everyone will be on time to class. If you are tardy for 3 or more classes without prior approval from faculty, this will also reflect in you discussion grade.

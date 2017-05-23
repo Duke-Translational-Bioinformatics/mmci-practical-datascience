@@ -3,7 +3,6 @@ __pycache__/
 *.py[cod]
 *$py.class
 *.idea/
-*.DS_Store
 /dataset_diabetes
 
 
@@ -91,3 +90,4 @@ ENV/
 
 # Rope project settings
 .ropeproject
+.DS_Store
