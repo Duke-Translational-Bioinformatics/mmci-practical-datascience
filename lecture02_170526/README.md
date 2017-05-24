@@ -1,7 +1,7 @@
 # Lecture 2 Readings
 ___
 ### In Class Microsoft Azure Machine Learning Orientation
-
+[Here](https://github.com/Duke-Translational-Bioinformatics/mmci-practical-datascience/blob/master/lecture02_170526/usingAzure.md)
 
 ### Book Lecture 2 Assignment
 Alpaydin Chapter 3
