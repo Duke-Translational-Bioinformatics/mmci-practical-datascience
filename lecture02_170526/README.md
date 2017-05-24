@@ -1,5 +1,7 @@
 # Lecture 2 Readings
 ___
+### In Class Microsoft Azure Machine Learning Orientation
+
 
 ### Book Lecture 2 Assignment
 Alpaydin Chapter 3
