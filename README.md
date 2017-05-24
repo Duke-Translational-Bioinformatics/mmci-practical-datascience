@@ -5,7 +5,7 @@
 
 ### Guest Lecturers
 * Kostas Christidis, IBM & NC State
-* Jane Doe, Red Hat
+* Michael Tiemann, VP Open Source Affairs, former CTO Red Hat
 
 ### Teaching Assistant
 Ben Neely
