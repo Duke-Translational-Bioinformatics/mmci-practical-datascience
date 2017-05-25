@@ -27,6 +27,9 @@ The primary goal for the course is to help students think critically about how t
 * Book can be purchased from Amazon (see link below)
 * All readings *should* be accessible via the Duke network, therefore VPN in (so you have a Duke IP address) to access and download the readings from the links. Obviously, if you're on campus, you shouldn't have to VPN in.
 
+### Course Schedule
+[Here](https://github.com/Duke-Translational-Bioinformatics/mmci-practical-datascience/blob/master/courseSchedule.md)
+
 ### Class Participation and Attendance Policy
 Class attendance is mandatory. Attendance will be taken at every class. If you miss a class, you need to make up the class session. This can be accomplished by reviewing the recorded class lecture and submitting a page synopsis of the class to the professor within one week. The one page synopsis needs to contain references. If you miss a class without prior approval by faculty, there will be a reduction in your debate/discussion overall grade.
 * One missed class — 5% reduction in grade
