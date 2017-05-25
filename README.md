@@ -8,7 +8,7 @@
 * Michael Tiemann, VP Open Source Affairs, former CTO Red Hat
 
 ### Teaching Assistant
-Ben Neely
+[Ben Neely](ben.neely@duke.edu)
 
 ### Location & Time
 * Hock 2nd Floor, CRTP Classroom
