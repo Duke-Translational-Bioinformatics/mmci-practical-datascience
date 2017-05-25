@@ -1,6 +1,6 @@
 # Feature Exploration
 Once logged into AMLS (Azure Machine Learning Studio), go to **Experiments**. There should be 
-a default experiment provided titled `Tutorial: Building a classificaiton model...`. Click on 
+a default experiment provided titled `Tutorial: Building a classification model...`. Click on 
 the title of that experiment. If all goes well, you will be presented with a 
 machine learning pipeline already created for you.
 
