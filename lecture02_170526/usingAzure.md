@@ -16,7 +16,7 @@ From within [Azure Machine Learning Studio](https://studio.azureml.net/
 ), we will explore the titanic data set. 
 
 ## What is a feature?
-We can broadly bifurcate any dataset's variables (columns) into two concepts:
+We can broadly bifurcate any dataset's variables (columns) into these concepts:
 
 #### Independent Variables
 From wikipedia page on `dependent and independent variables`:
@@ -109,4 +109,21 @@ from the pipeline (meaning they will not be part of the model). Intuitively, doe
 node and visualize the variables. Do you think they hold information related to predicting `survial`. Are there other
 variables that you would have removed? There is no wrong or right answer.
 
-  
+
+#### Variable Metadata
+>Metadata liberates us, liberates knowledge
+-David Weinberger  
+
+By default, many machine learning algorithms look to metadata to determine how to "treat" variables. For instance, in 
+the titanic dataset age was read in as a numeric feature. Sex, on the other hand, was read in (and understood) as a 
+string feature. What about the variable Pclass? It seems this variable was read in as a numeric feature, but does this make
+sense? A general `rule of thumb` is that mathematical operations should make sense on numeric features. Therfore, if we 
+were to add 1 to an age of 37 (resulting in 38) - does that make sense? Yes. Let's try that with Pclass. If we add 1 to 
+3 (resulting in 4) - does that make sense? Well, we probably need more information. Pclass stands for Passenger Class and
+if you're up on your titanic history, you know that there were only 3 classes of passengers on the titanic, so 4 does not
+make any sense. Therefore Pclass (or passenger class) should not be treated as a numeric feature. All of this higher level
+information about our data is known as `metadata`. The better we understand and represent the metadata, the
+better we can model quantities of interest. Therefore, we need to somehow change the metadata about Pclass and other similar
+features. To do this, note the 3rd node titled `Edit Metadata`. This node represents changing the metadata of serveral variables
+so that the names of the variables are more easily understood and the variable types represent how we want the machine to 
+understand their values.
