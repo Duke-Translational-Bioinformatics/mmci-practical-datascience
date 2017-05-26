@@ -1,65 +1,4 @@
-# Getting on to Microsoft Azure's Machine Learning Lab
-- Logging in
-  - Navigate your browser to https://studio.azureml.net
-  - You should be able to use your Duke account and enter via Duke's SSO
-- We are going to start with the classic Titanic dataset
-  - Located [here](https://gallery.cortanaintelligence.com/Experiment/Tutorial-Building-a-classification-model-in-Azure-ML-18)
-  - Click the ```Open in Studio``` button on the right
-  - You should now see something like this: ![AzureML Screenshot](https://github.com/Duke-Translational-Bioinformatics/mmci-practical-datascience/blob/master/lecture02_170526/lecture2Assets/azureTitanicScreenshot.png)
-- Exploring the data
-  - The Data Dictionary for these data is [here](https://www.kaggle.com/c/titanic/data)
-  - At the top of this flow diagram, click on the 1st block 'Titanic Dataset', right-click and select 'dataset' > 'visualize'
-  - A window should now pop up showing the Titanic data in tabular form
-
-# Features
-From within [Azure Machine Learning Studio](https://studio.azureml.net/
-), we will explore the titanic data set. 
-
-## What is a feature?
-We can broadly bifurcate any dataset's variables (columns) into two concepts:
-
-#### Independent Variables
-From wikipedia page on `dependent and independent variables`:
->Depending on the context, an **independent variable** is sometimes 
-called a "predictor variable", "regressor", "controlled variable",
-"manipulated variable", "explanatory variable", 
-"exposure variable" (see reliability theory), "risk factor" 
-(see medical statistics), **"feature"** (in machine learning and pattern recognition) 
-or "input variable."
-
-#### Dependent Variables
-> Depending on the context, a dependent variable is sometimes 
-called a "response variable", "regressand", "predicted variable", 
-"measured variable", "explained variable", "experimental variable",
-"responding variable", "outcome variable", "output variable" or 
-"label".
-
-So a feature is an independent variable and is used to help associate or
-predict a dependent variable or response. Beacause this is a machine learning course, 
-we will use the term feature when we talk about independent variables.  
-
-## The Chicken or The Egg
-Before diving in, we will first need to **think about the problem we want to solve**. *Depending on the problem,
-a particular variable could belong to either the independent variable list or the dependent variable list*. Much like 
-`the chicken or the egg` delima, it depends on your perspective. Let's work
-through this with an example.
-
-Consider the [Framingham 10-year risk of Cardiovascular Disease](https://www.framinghamheartstudy.org/risk-functions/cardiovascular-disease/10-year-risk.php). This
-machine learning algorithm promises to estimate the 10-year risk of Cardiovasular Disease. To do this it uses several
-indepedent variables (features). Among them are an indication of diabetes (yes or no). In the context of this problem,
-diabetes (yes or no) is a feature. However, in a recent [kaggle competition](https://www.kaggle.com/c/pf2012-diabetes),
-this variable (i.e. diabetes yes/no) belonged to the dependent variable list. The purpose of that project was to 
-predict diabetes (yes/no) so it belonged to the dependent variable list.
-
-
-## Defining our problem
-Using the titanic dataset, we'd like to predict **survival**. At this time,
-go ahead and log into [Azure Machine Learning Studio](https://studio.azureml.net/
-). Now that we have our problem well defined, we'll start exploring which features
-to use so we can accomplish our goal. Starting with [01_Feature_Exploration.md](01_Feature_Exploration.md), we'll 
-walk through this process.
-
-# Feature Exploration
+    # Feature Exploration
 Once logged into AMLS (Azure Machine Learning Studio), go to **Experiments**. There should be 
 a default experiment provided titled `Tutorial: Building a classification model...`. Click on 
 the title of that experiment. If all goes well, you will be presented with a 
@@ -126,3 +65,5 @@ better we can model quantities of interest. Therefore, we need to somehow change
 features. To do this, note the 3rd node titled `Edit Metadata`. This node represents changing the metadata of serveral variables
 so that the names of the variables are more easily understood and the variable types represent how we want the machine to 
 understand their values.
+
+
