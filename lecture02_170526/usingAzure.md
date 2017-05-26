@@ -35,13 +35,13 @@ called a "response variable", "regressand", "predicted variable",
 "label".
 
 So a feature is an independent variable and is used to help associate or
-predict a dependent variable or response. Beacause this is a machine learning course, 
+predict a dependent variable or response. Because this is a machine learning course, 
 we will use the term feature when we talk about independent variables.  
 
 ## The Chicken or The Egg
 Before diving in, we will first need to **think about the problem we want to solve**. *Depending on the problem,
 a particular variable could belong to either the independent variable list or the dependent variable list*. Much like 
-`the chicken or the egg` delima, it depends on your perspective. Let's work
+`the chicken or the egg` dilemma, it depends on your perspective. Let's work
 through this with an example.
 
 Consider the [Framingham 10-year risk of Cardiovascular Disease](https://www.framinghamheartstudy.org/risk-functions/cardiovascular-disease/10-year-risk.php). This
@@ -53,7 +53,7 @@ predict diabetes (yes/no) so it belonged to the dependent variable list.
 
 
 ## Defining our problem
-Using the titanic dataset, we'd like to predict **survival**. At this time,
+Using the Titanic dataset, we'd like to predict **survival**. At this time,
 go ahead and log into [Azure Machine Learning Studio](https://studio.azureml.net/
 ). Now that we have our problem well defined, we'll start exploring which features
 to use so we can accomplish our goal. Starting with [01_Feature_Exploration.md](01_Feature_Exploration.md), we'll 
@@ -78,7 +78,7 @@ of questions/thoughts that poped into my mind when I first looked at this pipeli
     - How many variables (both dependent and independent) are available?
     - Is survival one of those variable? Or, will I need to construct it?
     - I hope age is available, that (naively) seems like a potentially important feature.  
-Is there any thoughts/questions that pop into your mind? If so, write them down. As we go though this exericise
+Are there any thoughts/questions that pop into your mind? If so, write them down. As we go though this exercise
 you should be introduced to the tools needed to help you answer questions related to feature exploration.
  
 Thankfully, many of the nodes available in AMLS offer a visualize attribute that is accessible
