@@ -185,7 +185,7 @@ http://jama.jamanetwork.com/article.aspx?doi=10.1001/jama.2015.19417
 The Parable of Google Flu: Traps in Big Data Analysis.
 David Lazer, Ryan Kennedy, Gary King, and Alessandro Vespignani.
 Science, 2014 vol. 343 (6176) pp. 1203-1205.
-http://ieeexplore.ieee.org/document/6113109/
+http://science.sciencemag.org/content/sci/343/6176/1203.full.pdf
 
 
 Predicting the Future — Big Data, Machine Learning, and Clinical Medicine.
