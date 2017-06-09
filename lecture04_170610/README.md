@@ -63,3 +63,9 @@ An in-depth description of the microservice style of architecture. Applications 
 martinfowler.com.
 ```
 https://martinfowler.com/articles/microservices.html
+
+___
+### Discussion Questions
+1. *Margolin, et. al* describes a Open Challenge for building predictive models for breast cancer, to host an arbitrary number of researchers or participants for contending with a data science problem, what are the things you need? What is a good way to think about each individual predictive model that was submitted for the Challenge—with this in mind, what is another way of thinking about how a participant could have "submitted" a predictive model?
+2. 
+3. 
