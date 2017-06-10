@@ -66,6 +66,7 @@ https://martinfowler.com/articles/microservices.html
 
 ___
 ### Discussion Questions
-1. *Margolin, et. al* describes a Open Challenge for building predictive models for breast cancer, to host an arbitrary number of researchers or participants for contending with a data science problem, what are the things you need? What is a good way to think about each individual predictive model that was submitted for the Challenge—with this in mind, what is another way of thinking about how a participant could have "submitted" a predictive model?
-2. 
-3. 
+1. *Margolin, et. al* describes an Open Challenge for building predictive models for breast cancer, to host an arbitrary number of researchers or participants for contending with a data science problem, what are the things you need? What is a good way to think about each individual predictive model that was submitted for the Challenge—with this in mind, what is another way of thinking about how a participant could have "submitted" a predictive model (since we're talking about services)?
+2. How does Martin Fowler define an "application". Going by this definition, if we think of the Breast Cancer Challenge being an application, how might it be broken down?
+3. What are good examples of 'monolithic' applications?
+4. Martin Fowler notes that "Remote calls are more expensive than in-process calls". What does he mean?
