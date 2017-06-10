@@ -18,6 +18,8 @@ cat('Returning results\n')
 parsedResponse <- fromJSON(queryResponse)
 dataExtract <- parsedResponse$results
 loopLength <- length(dataExtract)
+
+## Loop through the response to render NYTimes Travel images from top travel stories
 for(i in 1:loopLength){
   picURL <- dataExtract[[i]]$multimedia[[4]]$url
   picFile <- download.file(url = picURL, destfile = 'pic.jpg', mode = 'wb')
