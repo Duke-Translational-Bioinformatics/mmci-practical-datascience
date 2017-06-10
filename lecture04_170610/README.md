@@ -70,3 +70,5 @@ ___
 2. How does Martin Fowler define an "application". Going by this definition, if we think of the Breast Cancer Challenge being an application, how might it be broken down?
 3. What are good examples of 'monolithic' applications?
 4. Martin Fowler notes that "Remote calls are more expensive than in-process calls". What does he mean?
+5. What is Conway's Law?
+6. What implication does a Microservices Architecture have for a software team's responsibilities?
