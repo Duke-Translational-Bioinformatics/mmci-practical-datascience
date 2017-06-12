@@ -16,8 +16,8 @@ Within this folder, there are several additional [markdown](https://en.wikipedia
 will help us modularize this activity. Here is an eagle eye view of all the steps
 that we'll need to take to accomplish this goal on Microsoft Azure Machine Learning Studio.
 
-1. [Creating the experiment in ML Studio](amlstudio_experiment_create.md)
-2. [Getting the Data](get_diabetes_data.md)
+1. [Getting the Data](get_diabetes_data.md)
+2. [Creating the experiment in ML Studio](amlstudio_experiment_create.md)
 3. [Feature Creation Example](feature_creation_example.md)
 4. [Modeling](modeling.md)
 5. [Deploy/Implementation](deploy_implementation.md)
