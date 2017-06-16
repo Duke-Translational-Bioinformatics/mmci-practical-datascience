@@ -49,6 +49,7 @@ df = pd.read_csv('/Users/nn31/Dropbox/40-githubRrepos/mmci-practical-datascience
                                 'change':object,
                                 'diabetesMed':object,
                                 'readmitted':object})
+df['admitted'] = df['readmitted'].apply(lambda x: 0 if x=='NO' else 1)
 
 np.random.seed(42)
 msk = np.random.rand(len(df)) < 0.7
