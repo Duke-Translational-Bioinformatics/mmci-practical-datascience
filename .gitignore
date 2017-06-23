@@ -3,7 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 *.idea/
-lecture07_170624/dataset_diabetes/holdback
+lecture07_170624/dataset_diab/holdback
 
 
 
