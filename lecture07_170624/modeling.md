@@ -20,9 +20,25 @@ well as see how features were connected.
 
 
 ### Submitting your work
-When complete, you will submit your work by creating a web service and sharing the corresponding URL + APIKey. Here is a 
-[link](https://docs.microsoft.com/en-us/azure/machine-learning/machine-learning-walkthrough-5-publish-web-service) to Azure
-instructions for creating a service from your model. Once you've followed these instructions, please take a minute to fill
+When complete, you will submit your work by creating a web service and sharing the corresponding URL + APIKey. Here is 
+how we will do that.
+
+1. Once you are happy with your model and are ready to submit it to the competition, click `SET UP WEB SERVICE` at the 
+bottom of the screen. Then `CREATE PREDICITVE EXPERIMENT`.
+2. Once complete, click `RUN`.
+3. Next, click `DEPLOY WEB SERVICE`.
+4. On the left-hand side of the screen click the globe icon (i.e. `Web services`).
+5. Now choose the web service that you just created.
+6. From this screen, copy the API key and then paste it into this [google sheet](https://docs.google.com/spreadsheets/d/1HAn2Tl8TEsYmehRPeXEmfQ5LdIsIDXjIHVMJzj868Rw/edit?usp=sharing) where your name is located.
+7. Now go back to the web service screen and click `BATCH EXECUTION`.
+8. Scroll down to the section that says Sample Code and choose the `python` tab.
+9. Once selected, scroll down into the code to a function called `invokeBatchExecutionService`.
+10. Within that function there will be an attributed called `url`, copy the text **between** the double quotes and paste into
+the google sheet linked above.
+11. You've now submitted your model
+
+
+Once you've followed these instructions, please take a minute to fill
 out the following [google worksheet](https://docs.google.com/spreadsheets/d/1HAn2Tl8TEsYmehRPeXEmfQ5LdIsIDXjIHVMJzj868Rw/edit?usp=sharing).
 Once everyone has submitted their work, we will start use an in-house application ([ENOUGH](https://github.com/benneely/ENOUGH)) to compare
 everyone's work.
