@@ -1,5 +1,5 @@
 # Getting the Data
-Using the [diabetes dataset posted in this folder](dataset_diab/diabetic-deliver.csv), download the file onto your machine (this
+Using the [diabetes dataset posted in this folder](dataset_diab/diabetic-deliver.csv), *Right click -> Save As...* download the file onto your machine (this
 is the only mechanism that Azure ML Studio gives us to get data up). Is this ideal? Is there a better way to do this?
 
 One the data is on your machine, let's get it into Azure ML Studio:
