@@ -1,4 +1,4 @@
-# Azure ML Intensive Lab
+# Azure Machine Learning Intensive Lab
 Together, we will compete against each other to build the best predictive
 model. At the end of the competition, we will run everyone's best model
 against all others and using `AUC` as a metric of "best", we will choose a
