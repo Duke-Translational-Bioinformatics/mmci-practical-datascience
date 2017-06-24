@@ -8,7 +8,7 @@ One the data is on your machine, let's get it into Azure ML Studio:
 2. Using the menu on the left-hand side of the page, click on Datasets.
 ![datasets](images/experiments.png)
 3. Use the new button at the bottom left (red box), click `New`.
-4. Navigate to the location where the data was saved. 
+4. Select dataset and navigate to the location where the data was saved. 
 5. Save the dataset [diabetic-deliver]('./dataset_diabetes/diabetic-deliver.csv') as `diabetic-deliver.csv`.
 6. Under `Select a type for the new dataset`, choose `Generic CSV file with header`.
 7. Click the encircled check mark to upload.
