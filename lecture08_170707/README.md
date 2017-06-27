@@ -19,8 +19,6 @@ Asaph Azaria, Ariel Ekblaw, Thiago Vieira, and Andrew Lippman.
 2016 2nd International Conference on Open and Big Data (OBD), pp. 25-30.
 ```
 http://ieeexplore.ieee.org/document/7573685/
-
-```
 ___
 ### Discussion Questions
 1. What do you see as "revolutionary" or "disruptive" about what Eric Topol suggests?
