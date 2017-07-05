@@ -73,5 +73,5 @@ ___
 1. What is "value"? Who defines it? 
 2. What are examples of "levers" for value?
 4. *Bates, et. al.* Describe 6 use cases where analytics can align with value. Can you think of others?
-5. 
+5. *Roski, et. al.* spend a lot of time talking about infrastructure. Is aligning analytics with value feasible with "conventional" health IT infrastructure?
 ___
