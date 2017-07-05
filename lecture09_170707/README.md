@@ -70,5 +70,6 @@ http://jama.jamanetwork.com/article.aspx?doi=10.1001/jama.2015.19417
 
 ___
 ### Discussion Questions
-1. 
+1. What is "value"? Who defines it? 
+2. What are examples of "levers" for value?
 ___
