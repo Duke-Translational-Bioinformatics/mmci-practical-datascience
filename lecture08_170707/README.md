@@ -38,6 +38,4 @@ ___
 1. Machine learning has the virtue of automation and being able to work 24/7, but is it truly unbiased?
 2. If we acknowledge the issues raised in the above readings, how do we objectively evaluate machine learning's biases and how can we think about minimizing the potential for biases?
 3. Why do you think many machine learning algorithms are biased?
-3. Where do you see other opportunities for using blockchain in healthcare or clinical research?
-
 ___
