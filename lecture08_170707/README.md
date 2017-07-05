@@ -1,28 +1,43 @@
-# Lecture 5 Readings
+# Lecture 8 Readings
 ___
 
-### Papers Lecture 5 Assignment
+### Papers Lecture 8 Assignment
 ```
-Unpatients—why patients should own their medical data.
+Opinion | Artificial Intelligence’s White Guy Problem.
 
-Leonard J Kish and Eric J Topol.
+Kate Crawford.
 
-Nat Biotechnol, 2015 vol. 33 (9) pp. 921-924.
+Our world is increasingly shaped by biased algorithms that have been built with little oversight.
+
+New York Times.
 ```
-http://www.nature.com/doifinder/10.1038/nbt.3340
+https://www.nytimes.com/2016/06/26/opinion/sunday/artificial-intelligences-white-guy-problem.html
 
 ```
-MedRec: Using Blockchain for Medical Data Access and Permission Management.
+Even artificial intelligence can acquire biases against race and gender.
 
-Asaph Azaria, Ariel Ekblaw, Thiago Vieira, and Andrew Lippman.
+Matthew Hutson.
 
-2016 2nd International Conference on Open and Big Data (OBD), pp. 25-30.
+Science, 2017.
 ```
-http://ieeexplore.ieee.org/document/7573685/
+http://www.sciencemag.org/news/2017/04/even-artificial-intelligence-can-acquire-biases-against-race-and-gender
+
+```
+Machine Bias: There’s Software Used Across the Country to Predict Future Criminals. And it’s Biased Against Blacks.
+
+Julia Angwin, Jeff Larson, Surya Mattu, and Lauren Kirchner.
+
+There’s software used across the country to predict future criminals. And it’s biased against blacks.
+
+www.propublica.org, 2016.
+```
+https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing
+
 ___
 ### Discussion Questions
-1. What do you see as "revolutionary" or "disruptive" about what Eric Topol suggests?
-2. What are the key features of "blockchain" technology and how do they align with the use cases of health records?
+1. Machine learning has the virtue of automation and being able to work 24/7, but is it truly unbiased?
+2. If we acknowledge the issues raised in the above readings, how do we objectively evaluate machine learning's biases and how can we think about minimizing the potential for biases?
+3. Why do you think many machine learning algorithms are biased?
 3. Where do you see other opportunities for using blockchain in healthcare or clinical research?
 
 ___
