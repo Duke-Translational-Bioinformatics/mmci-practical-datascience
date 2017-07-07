@@ -52,4 +52,10 @@ geekdoctor.blogspot.com.
 ```
 http://geekdoctor.blogspot.com/2014/10/wikipedia-and-facebook-for-clinical.html
 
-
+___
+### Think About
+1. What is purpose of a medical record?
+2. How does making that record electronic alter the original purpose?
+3. Should it?
+4. From a workflow standpoint, what should an EHR provide us at minimum?
+5. In an electronic era, what does the ideal EHR look like?
