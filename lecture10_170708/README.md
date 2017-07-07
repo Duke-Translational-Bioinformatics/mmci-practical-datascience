@@ -41,5 +41,15 @@ Journal of the American Medical Informatics Association, 2014 vol. 22 (2) pp. am
 ```
 http://jamia.oxfordjournals.org/cgi/doi/10.1136/amiajnl-2014-003023
 
+```
+Wikipedia and Facebook for Clinical Documentation.
+
+John Halamka.
+
+Over the past several years I’ve written about the inadequate state of clinical documentation, which is largely unchanged since the days of ...
+
+geekdoctor.blogspot.com.
+```
+http://geekdoctor.blogspot.com/2014/10/wikipedia-and-facebook-for-clinical.html
 
 
