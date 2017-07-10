@@ -17,10 +17,10 @@ ___
 #### First Round
 ```Used pseudorandom number generator in R to assign```
 
-* Team 1 *versus* Team 3: **Topic 1**
-* Team 4 *versus* Team 7: **Topic 4**
-* Team 2 *versus* Team 5: **Topic 3**
-* Team 6 *versus* Team 8: **Topic 2**
+* Team 1 (Affirmative) *versus* Team 3 (Negative): **Topic 1**
+* Team 4 (Affirmative) *versus* Team 7 (Negative): **Topic 4**
+* Team 2 (Affirmative) *versus* Team 5 (Negative): **Topic 3**
+* Team 6 (Affirmative) *versus* Team 8 (Negative): **Topic 2**
 #### Second Round
 * Left Bracket: **Topic 6**
 * Right Bracket: **Topic 5**
