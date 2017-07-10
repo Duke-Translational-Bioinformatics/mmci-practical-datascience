@@ -13,6 +13,20 @@ ___
 6. Resolved; HIPAA is inhibiting innovation
 
 ___
+### Debate Topic Assignments
+#### First Round
+```Used pseudorandom number generator in R to assign```
+Team 1 *versus* Team 3: Topic 1
+Team 4 *versus* Team 7: Topic 4
+Team 2 *versus* Team 5: Topic 3
+Team 6 *versus* Team 8: Topic 2
+#### Second Round
+Left Bracket: Topic 6
+Right Bracket: Topic 5
+#### Final Round
+Resolved; There should be a Federally-mandated standard for interoperability
+
+___
 ### Potential Debate Topics
 1. Resolved; on-premise computing infrastructure is superior to cloud infrastructure in healthcare
 2. Resolved; that the FDA should regulate machine learning based clinical decison support
