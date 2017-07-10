@@ -22,10 +22,11 @@ ___
 * Team 2 (Affirmative) *versus* Team 5 (Negative): **Topic 3**
 * Team 6 (Affirmative) *versus* Team 8 (Negative): **Topic 2**
 #### Second Round
-* Left Bracket: **Topic 6**
-* Right Bracket: **Topic 5**
+* Left Bracket: **Topic 6** (winner of Team 1 v 3 is Affirmative)
+* Right Bracket: **Topic 5** (winner of Team 2 v 5 is Affirmative)
 #### Final Round
 * Resolved; There should be a Federally-mandated standard for interoperability
+Left is Affirmative, Right is Negative
 
 ___
 ### Potential Debate Topics
