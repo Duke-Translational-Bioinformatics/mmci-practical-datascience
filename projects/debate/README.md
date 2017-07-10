@@ -26,7 +26,7 @@ ___
 * Right Bracket: **Topic 5** (winner of Team 2 v 5 is Affirmative)
 #### Final Round
 * Resolved; There should be a Federally-mandated standard for interoperability
-Left is Affirmative, Right is Negative
+(Left is Affirmative, Right is Negative)
 
 ___
 ### Potential Debate Topics
