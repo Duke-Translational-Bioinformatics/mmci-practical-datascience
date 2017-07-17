@@ -19,3 +19,12 @@ eprint.iacr.org.
 ```
 http://eprint.iacr.org/2017/281
 
+```
+Federated Learning: Collaborative Machine Learning without Centralized Training Data.
+
+Brendan McMahan and Daniel Ramage.
+
+research.googleblog.com.
+
+```
+https://research.googleblog.com/2017/04/federated-learning-collaborative.html
