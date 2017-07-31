@@ -27,7 +27,13 @@ ___
 #### Final Round
 * Resolved; There should be a Federally-mandated standard for interoperability
 (Left is Affirmative, Right is Negative)
-
+___
+### Debate Format
+A. Affirmative Opening Arguments (5 mins)
+B. Negative Opening Arguments (5 mins)
+C. Open Questions (5 mins)
+D. Affirmative Closing Arguments (5 mins)
+E. Negative Closing Arguments (5 mins)
 ___
 ### Potential Debate Topics
 1. Resolved; on-premise computing infrastructure is superior to cloud infrastructure in healthcare
