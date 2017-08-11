@@ -1,3 +1,6 @@
+## Live Grading Histogram
+https://docs.google.com/spreadsheets/d/1EEesMT267zVgCnhewxeoelgTDvDbxDlG8UOWZx7Fjnk/pubchart?oid=1464279368&format=interactive
+
 ## Individual Assignment, DUE 8 JULY 2017. 
 #### Submit as Google Doc and share with erich.huang@duke.edu
 ### "If I were going to open source..."
