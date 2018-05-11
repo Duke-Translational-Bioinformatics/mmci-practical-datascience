@@ -1,7 +1,7 @@
-# Lecture 6 Readings
+# Lecture 14 Readings
 ___
 
-### Papers Lecture 6 Assignment
+### Papers Lecture 14 Assignment
 ```
 The Open Patient. **To be shown in class**
 Healing Through Sharing: Steven Keating & Liz Salmi.
