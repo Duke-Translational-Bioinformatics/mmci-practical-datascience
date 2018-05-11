@@ -1,10 +1,10 @@
-# Lecture 4 Readings on Version Control
+# Lecture 5 Readings on Version Control
 ___
 
-### Book Lecture 4 Assignment
+### Book Lecture 5 Assignment
 
 
-### Papers Lecture 4 Assignment
+### Papers Lecture 5 Assignment
 ```
 Paper 1
 ```

@@ -1,7 +1,7 @@
-# Lecture 8 Readings
+# Lecture 7 Readings
 ___
 
-### Papers Lecture 8 Assignment
+### Papers Lecture 7 Assignment
 ```
 Opinion | Artificial Intelligence’s White Guy Problem.
 

@@ -1,4 +1,4 @@
-### Lecture 12: Privacy
+### Lecture 11: Privacy
 ```
 What is Differential Privacy?.
 
