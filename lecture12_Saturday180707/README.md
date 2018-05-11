@@ -1,4 +1,4 @@
-# What is an EHR Supposed to Do?
+# Lecture 12: What is an EHR Supposed to Do?
 ```
 Electronic Health Record Logs Indicate That Physicians Split Time Evenly Between Seeing Patients And Desktop Medicine.
 
