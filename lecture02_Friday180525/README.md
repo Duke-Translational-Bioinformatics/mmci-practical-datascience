@@ -1,14 +1,14 @@
 # Lecture 2 Readings
 ___
 ### In Class Microsoft Azure Machine Learning Orientation
-[Here](https://github.com/Duke-Translational-Bioinformatics/mmci-practical-datascience/blob/master/lecture02_170526/usingAzure.md)
+[Here](https://github.com/Duke-Translational-Bioinformatics/mmci-practical-datascience/blob/master/lecture02_Friday180525/usingAzure.md)
 
 ### Book Lecture 2 Assignment
 Alpaydin Chapter 3
 
 ### Papers Lecture 2 Assignment
 ```
-The Parable of Google Flu: Traps in Big Data Analysis.
+The Parable of Google Flu: Traps in Big Data Analysis.usingAzure.md
 
 David Lazer, Ryan Kennedy, Gary King, and Alessandro Vespignani.
 
