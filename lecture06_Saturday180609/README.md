@@ -1,7 +1,7 @@
-# Lecture 4 Readings
+# Lecture 6 Readings
 ___
 
-### Papers Lecture 4 Assignment
+### Papers Lecture 6 Assignment
 ```
 Stevey's Google Platforms Rant I was at Amazon for about six and a half year...
 https://plus.google.com/+RipRowan/posts/eVeouesvaVX.
