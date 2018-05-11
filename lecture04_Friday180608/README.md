@@ -1,21 +1,19 @@
 # Lecture 4 Readings on Version Control
 ___
 
-### Book Lecture 4 Assignment
+### Papers/web Lecture 4 Assignment
+```
+An Introduction to Version Control Using GitHub Desktop.
+Daniel van Strien.
+Programming Historian, 2016.
+```
+https://programminghistorian.org/lessons/getting-started-with-github-desktop
 
-
-### Papers Lecture 4 Assignment
 ```
-Paper 1
+Learning Git and Github
+Duke has a subscription to Lynda.com, you'll want to sign in using your Duke account
 ```
-http://content.healthaffairs.org/content/33/7/1163.full
-
-```
-Paper 2
-```
-http://www.nejm.org/doi/10.1056/NEJMp1606181
+https://www.lynda.com/Git-tutorials/Up-Running-Git-GitHub/409275-2.html?org=duke.edu
 
 ___
-### Discussion Questions
-1. As Harlan Krumholz describes, over the last decade other industries have been taking advantage of 'big data' and 'machine learning'. Why hasn't this happened in healthcare? What are the main barriers? And how do we surmount them?
-2. Obermeyer and Emanuel's *NEJM* editorial paints a sanguine picture of what machine learning will bring to clinical medicine. What fallacies do they point out? Importantly, what do they fail to point out? They point to three areas of disruption; what potential issues are they glossing over?
+
