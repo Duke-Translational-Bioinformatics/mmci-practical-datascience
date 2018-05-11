@@ -1,7 +1,7 @@
-# Lecture 5 Readings
+# Lecture 13 Readings
 ___
 
-### Papers Lecture 5 Assignment
+### Papers Lecture 13 Assignment
 ```
 Unpatients—why patients should own their medical data.
 
