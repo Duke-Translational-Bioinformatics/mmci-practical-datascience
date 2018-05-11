@@ -12,8 +12,8 @@ Saturday, 23 June | Lecture 9 | 0800 - 1045 | Azure ML Intensive Lab | Diabetes 
 Friday, 6 July | Lecture 10 | 1100 - Noon | Privacy
 Friday, 6 July | Lecture 11 | 1300 - 1430 | Privacy
 Saturday, 7 July | Lecture 12 | 0800 - 1045 | "What is an EHR Supposed to Do?" | Debate prep, Open Source assignment due 
-Friday, 20 July | Lecture 13 | 
-Friday, 20 July | Lecture 14 |
+Friday, 20 July | Lecture 13 | 1100 - Noon 
+Friday, 20 July | Lecture 14 | 1300 - 1430
 Saturday, 21 July | Lecture 15 | 0800 - 1045 | Discuss the Diabetes Readmissions Machine Learning Project | 
 Friday, 3 August | Lecture 16 | 1100 - Noon | Oxford-Style Debate Prep
 Friday, 3 August | Lecture 17 | 1300 - 1430 | Oxford-Style Debate I
