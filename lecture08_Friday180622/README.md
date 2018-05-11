@@ -1,7 +1,7 @@
-# Lecture 9 Readings
+# Lecture 8 Readings
 ___
 
-### Papers Lecture 9 Assignment
+### Papers Lecture 8 Assignment
 ```
 Big data in health care: using analytics to identify and manage high-risk and high-cost patients.
 
