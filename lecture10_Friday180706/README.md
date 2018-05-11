@@ -1,4 +1,4 @@
-# Lecture 11: Privacy
+# Lecture 10: Privacy
 ```
 Between Openness and Privacy in Genomics.
 
