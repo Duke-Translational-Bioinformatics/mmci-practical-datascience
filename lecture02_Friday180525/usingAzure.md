@@ -5,7 +5,7 @@
 - We are going to start with the classic Titanic dataset
   - Located [here](https://gallery.cortanaintelligence.com/Experiment/Tutorial-Building-a-classification-model-in-Azure-ML-18)
   - Click the ```Open in Studio``` button on the right
-  - You should now see something like this: ![AzureML Screenshot](https://github.com/Duke-Translational-Bioinformatics/mmci-practical-datascience/blob/master/lecture02_170526/lecture2Assets/azureTitanicScreenshot.png)
+  - You should now see something like this: ![AzureML Screenshot](https://github.com/Duke-Translational-Bioinformatics/mmci-practical-datascience/blob/master/lecture02_Friday180525/lecture2Assets/azureTitanicScreenshot.png)
 - Exploring the data
   - The Data Dictionary for these data is [here](https://www.kaggle.com/c/titanic/data)
   - At the top of this flow diagram, click on the 1st block 'Titanic Dataset', right-click and select 'dataset' > 'visualize'
