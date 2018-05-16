@@ -6,11 +6,12 @@ This will be a team project focused on using version control to cooperatively co
 1. Each team should create a Project in Github 
 2. As described in _van Strien_, create a plain text document and place it under version control, even better if you use Markdown, i.e. create a "*.md" file (see [here](https://guides.github.com/features/mastering-markdown/) for Github-flavored markdown).
 3. The document should have these sections:
-  3. Description of Use Case
-  3. Why is it a good use of version control (Git/Github)?
-  3. Where does it fall short in leveraging version control tools?
-  3. What would you do differently?
+  * Description of Use Case
+  * Why is it a good use of version control (Git/Github)?
+  * Where does it fall short in leveraging version control tools?
+  * What would you do differently?
 4. In performing each assignment some version control conditions have to be met:
-  4. Each member of a team must perform a 'commit'
-  4. Each member of a team must perform a 'pull request'
-  4. 
+  * Each member of a team must perform a 'commit'
+  * Each member of a team must perform a 'pull request'
+  * You must use a 'branch' for each section of the document
+  
