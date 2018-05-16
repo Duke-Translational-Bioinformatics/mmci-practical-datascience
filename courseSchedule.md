@@ -4,7 +4,7 @@ Friday, 25 May | Lecture 1 | 1100 - Noon | Introduction
 Friday, 25 May | Lecture 2 | 1300 - 1430 | Machine Learning & Health | Introduction to Azure ML
 Saturday, 26 May | Lecture 3 | 1000 - 1230 | Deep Learning | Flatiron Health Case Study
 Friday, 8 June | Lecture 4 | 1100 - 1200 | Version Control
-Friday, 8 June | Lecture 5 | 1300 - 1430 | Version Control Assignment
+Friday, 8 June | Lecture 5 | 1300 - 1430 | Version Control Lab
 Saturday, 9 June | Lecture 6 |0800 - 1030 | Services/APIs | 
 Friday, 22 June | Lecture 7 | 1100 - Noon | Bias in Machine Learning
 Friday, 22 June | Lecture 8 | 1300 - 1430 | Analytics and Value
