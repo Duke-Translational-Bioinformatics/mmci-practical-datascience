@@ -13,7 +13,7 @@ This will be a team project focused on using version control to cooperatively co
 4. We suggest that each team create a Github "Organization" (see [here](https://help.github.com/articles/creating-a-new-organization-from-scratch/)) and have all the team members join it.
   * The organization should create a Project entitled "mmci-versioncontrol-assignment"
   * As the organization, should create an empty *.md document on Github using the 'create new file' button
-  * Then all members should perform a 'Pull Request' to clone the repo into their personal Github repos
+  * Then all members should 'fork' to clone the repo into their personal Github repos
 
 5. In performing each assignment some version control conditions have to be met:
   * Each member of a team must perform a 'commit'
