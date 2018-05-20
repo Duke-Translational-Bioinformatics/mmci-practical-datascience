@@ -1,4 +1,4 @@
-## Individual Assignment, DUE 21 JULY 2017. 
+## Individual Assignment, DUE 3 August 2017. 
 
 ### Describe your Diabetes Readmission Prediction Model
 Using Microsoft's Azure ML lab, you've built a prediction model for diabetes readmission. Please describe the rationale for your model and the decisions you made with building your model, and how you would intend for your model to be used in a health system setting. Please also describe potential pitfalls in the technical integration, deployment and use of your model.
