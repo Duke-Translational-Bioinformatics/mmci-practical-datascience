@@ -26,6 +26,7 @@ The primary goal for the course is to help students think critically about how t
 ### Course Readings
 * Book can be purchased from Amazon (see link below)
 * All readings *should* be accessible via the Duke network, therefore VPN in (so you have a Duke IP address) to access and download the readings from the links. Obviously, if you're on campus, you shouldn't have to VPN in.
+* PDFs of readings are also available in this Box folder: https://duke.box.com/s/3jxzvd0d13xkeisp8dgtw2jht4yqczre
 
 ### Course Schedule
 [Here](https://github.com/Duke-Translational-Bioinformatics/mmci-practical-datascience/blob/master/courseSchedule.md)
