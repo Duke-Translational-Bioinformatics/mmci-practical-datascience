@@ -41,8 +41,8 @@ Class discussion is an essential element of this course. We will have written ca
 ### Grading
 ITEM | DUE DATE | PERCENTAGE
 ---- | -------- | ----------
-"If you were going to Open Source..." (individual grade) | Date | 40%
-Predictive Modeling Challenge (individual grade) | Date | 20%
+Predictive Modeling Challenge (individual grade) | 21 July 2018 | 20%
+ML Written Assignment (individual grade) | 3 August 2018 | 40%
 Oxford-Style Debate tourney (group grade) | Date | 20%
 Class Participation (individual grade) | Term | 20%
 
