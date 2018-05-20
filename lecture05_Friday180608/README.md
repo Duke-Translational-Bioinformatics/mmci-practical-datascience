@@ -19,7 +19,7 @@ This will be a team project focused on using version control to cooperatively co
   * Each member of a team must perform a 'commit'
   * Each member of a team must perform a 'pull request'
   * You must use a 'branch' for each section of the document
-6. When you are ready to submit your assignment on XXXX
+6. When you are ready to submit your assignment on **7 July 2018**
   * Create a 'Production' branch which will represent the final version of the assignment
   * Add me as a collaborator on your Repo (unless you've made it open to the public, otherwise just send me a link to the repo)
   
