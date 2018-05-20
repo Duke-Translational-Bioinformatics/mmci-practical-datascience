@@ -11,7 +11,7 @@ Friday, 22 June | Lecture 8 | 1300 - 1430 | Analytics and Value
 Saturday, 23 June | Lecture 9 | 0800 - 1045 | Azure ML Intensive Lab | Diabetes Readmissions
 Friday, 6 July | Lecture 10 | 1100 - Noon | Privacy
 Friday, 6 July | Lecture 11 | 1300 - 1430 | Privacy
-Saturday, 7 July | Lecture 12 | 0800 - 1045 | "What is an EHR Supposed to Do?" | Debate prep, Version Control assignment due 
+Saturday, 7 July | Lecture 12 | 0800 - 1045 | "What is an EHR Supposed to Do?" | Version Control assignment due 
 Friday, 20 July | Lecture 13 | 1100 - Noon | Blockchain
 Friday, 20 July | Lecture 14 | 1300 - 1430
 Saturday, 21 July | Lecture 15 | 0800 - 1045 | Discuss the Diabetes Readmissions Machine Learning Project: Final Model Due | 
