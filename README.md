@@ -5,7 +5,7 @@
 
 ### Guest Lecturers
 * Kostas Christidis, IBM & NC State
-* Michael Tiemann, VP Open Source Affairs, former CTO Red Hat
+* TBD
 
 ### Teaching Assistant
 [Ben Neely](ben.neely@duke.edu)
