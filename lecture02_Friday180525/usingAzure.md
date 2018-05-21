@@ -56,7 +56,7 @@ predict diabetes (yes/no) so it belonged to the dependent variable list.
 Using the Titanic dataset, we'd like to predict **survival**. At this time,
 go ahead and log into [Azure Machine Learning Studio](https://studio.azureml.net/
 ). Now that we have our problem well defined, we'll start exploring which features
-to use so we can accomplish our goal. Starting with [01_Feature_Exploration.md](01_Feature_Exploration.md), we'll 
+to use so we can accomplish our goal. Starting with [01_Feature_Exploration.md](lecture2Assets/01_Feature_Exploration.md), we'll 
 walk through this process.
 
 # Feature Exploration
