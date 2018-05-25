@@ -44,7 +44,7 @@ ITEM | DUE DATE | PERCENTAGE
 ---- | -------- | ----------
 Predictive Modeling Challenge (individual grade) | 21 July 2018 | 20%
 ML Written Assignment (individual grade) | 3 August 2018 | 40%
-Oxford-Style Debate tourney (group grade) | 3-4 August | 20%
+Oxford-Style Debate tourney (group grade) | 3-4 August 2018 | 20%
 Class Participation (individual grade) | Term | 20%
 
 ### Tardiness
