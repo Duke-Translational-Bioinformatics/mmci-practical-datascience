@@ -22,3 +22,5 @@ that we'll need to take to accomplish this goal on Microsoft Azure Machine Learn
 4. [Modeling](modeling.md)
 5. [Deploy/Implementation](deploy_implementation.md)
 
+### Data Dictionary (I think)
+https://www.hindawi.com/journals/bmri/2014/781670/tab1/
