@@ -11,16 +11,6 @@ Using a freely available dataset from Kaggle, we will work together to predict
 readmission of diabetics. Again, the end goal is to derive the best features that
 allow you to build the most accurate predictive model.
 
-#### How will this work?
-Within this folder, there are several additional [markdown](https://en.wikipedia.org/wiki/Markdown) files. That 
-will help us modularize this activity. Here is an eagle eye view of all the steps
-that we'll need to take to accomplish this goal on Microsoft Azure Machine Learning Studio.
-
-1. [Getting the Data](get_diabetes_data.md)
-2. [Creating the experiment in ML Studio](amlstudio_experiment_create.md)
-3. [Feature Creation Example](feature_creation_example.md)
-4. [Modeling](modeling.md)
-5. [Deploy/Implementation](deploy_implementation.md)
 
 ### Data Dictionary (I think)
 https://www.hindawi.com/journals/bmri/2014/781670/tab1/
