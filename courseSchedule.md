@@ -14,7 +14,7 @@ Friday, 6 July | Lecture 11 | 1300 - 1430 | Privacy
 Saturday, 7 July | Lecture 12 | 0800 - 1045 | "What is an EHR Supposed to Do?" | Version Control assignment due 
 Friday, 20 July | Lecture 13 | 1100 - Noon | Guest Lecture: EHR Analysis by Ben Goldstein (B&B Faculty)
 Friday, 20 July | Lecture 14 | 1300 - 1430 | Guest Lecture: Aaron McKethan on Health IT Startup (DPHS Faculty, and NC HHS)
-Saturday, 21 July | Lecture 15 | 0800 - 1045 | Guest Lecture: Blockchain, Jeff Garratt (IBM) Diabetes | Final Model Due | 
+Saturday, 21 July | Lecture 15 | 0800 - 1045 | Guest Lecture: Blockchain, Jeff Garratt (IBM) | Diabetes Final Model Due | 
 Friday, 3 August | Lecture 16 | 1100 - Noon | Oxford-Style Debate Prep | ML Writeup Due
 Friday, 3 August | Lecture 17 | 1300 - 1430 | Oxford-Style Debate I
 Saturday, 4 August | Lecture 18 | 0800 - 1045 | Oxford-Style Debate II
