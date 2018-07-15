@@ -1,5 +1,9 @@
 ### Potential Debate Topics 2018 (by 7/14)
 * Current state of data quality and implications on Machine Learning algorithms
+* Responsibility of ML companies to disclose how they developed their alogirthms to the general public.
+* Role of FDA regulation in predictive models used in the clinical decision support. (Should regulate/Should not regulate)
+* Companies should/should not assume legal liability for their ML algorithms.
+* Algortihms themselves should be protected as intellectual property vs. they are so fundamental to scientific advancement that they should not be protectable through patents.
 * HIPAA was introduced in 1996 and the health care landscape was significantly different than it is today.  Discuss the pros and cons of revisiting the law and how these changes can impace patient care / privacy / research
 * Is Obesity a disease? (my personal favorite)
 * Should Physician Assisted Suicide or Euthanasia be legal?
@@ -13,4 +17,3 @@
 * should information from social media sites (ie Facebook) be linked to the EHR for detection of public health situations/surveillance and or patient disease prevention or early warning of things such as suicidal tendancies?
 * For or against a universal patient identifier for US legal residents and citizens
 * Should wearables and sensor data from devices like Fitbit and Apple watches be a part of the electronic health record? 
-
