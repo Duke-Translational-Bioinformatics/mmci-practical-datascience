@@ -1,5 +1,5 @@
 ### Potential Debate Topics 2018 (by 7/14)
 * Current state of data quality and implications on Machine Learning algorithms
-* Next topic
+* For or against a universal patient identifier for US legal residents and citizens
+* Should wearables and sensor data from devices like Fitbit and Apple watches be a part of the electronic health record? 
 
-Should wearables and sensor data from devices like Fitbit and Apple watches be a part of the electronic health record? 
