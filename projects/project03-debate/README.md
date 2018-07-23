@@ -1,5 +1,5 @@
 ## The MMCi Oxford Style Debate
-![bracket](https://github.com/Duke-Translational-Bioinformatics/mmci-practical-datascience/blob/master/projects/project03-debate/debateAssets/Bracket.png)
+![bracket](https://github.com/Duke-Translational-Bioinformatics/mmci-practical-datascience/blob/master/projects/project03-debate/sixteambracket.pdf)
 
 http://solveforinteresting.com/oxford-debate/
 
@@ -36,6 +36,7 @@ ___
 Individuals are predisposed toward each topic of interest. To be fair, we want to control for these
 feelings and provide a fair metric that determines the winner of the debate. One metric is:
 
+(Total In Favor Post) / (Total in Favor Pre)
 
-\frac{# POST}{# PRE}
+We will use this metric to determine winners at each level.
 
