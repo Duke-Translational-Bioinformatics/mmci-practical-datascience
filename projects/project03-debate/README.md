@@ -36,6 +36,6 @@ ___
 Individuals are predisposed toward each topic of interest. To be fair, we want to control for these
 feelings and provide a fair metric that determines the winner of the debate. One metric is:
 
-```
+
 \frac{# POST}{# PRE}
-``` 
+
