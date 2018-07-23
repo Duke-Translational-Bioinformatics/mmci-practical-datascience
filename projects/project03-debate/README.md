@@ -1,5 +1,5 @@
 ## The MMCi Oxford Style Debate
-![bracket](debateAssets/sixteambracket.pdf)
+![bracket](debateAssets/bracket6.png)
 http://solveforinteresting.com/oxford-debate/
 
 ___
