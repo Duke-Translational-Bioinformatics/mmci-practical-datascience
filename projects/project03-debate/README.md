@@ -1,6 +1,5 @@
 ## The MMCi Oxford Style Debate
-![bracket](https://github.com/Duke-Translational-Bioinformatics/mmci-practical-datascience/blob/master/projects/project03-debate/sixteambracket.pdf)
-
+![bracket](debateAssets/sixteambracket.pdf)
 http://solveforinteresting.com/oxford-debate/
 
 ___
