@@ -5,28 +5,24 @@ http://solveforinteresting.com/oxford-debate/
 
 ___
 ### Final Debate Topics
-1. Resolved; We should have National Patient Identifiers
-2. Resolved; Opt-out consents for EHR-based research should be allowed
-3. Resolved; Health systems should de-identify and make their data readily accessible for research
-4. Resolved; Machine learning and artificial intelligence will replace healthcare providers in decades
-5. Resolved; The large EHR vendors should open source their technology
-6. Resolved; HIPAA is inhibiting innovation
+1. Resolved; Increased competition promotes better quality health care
+2. Resolved; The FDA should regulate predictive models used in clinical decision support.
+3. Resolved; EHRs improve quality of care and decrease costs
+4. Resolved; We should have National Patient Identifiers
 
 ___
 ### Debate Topic Assignments
 #### First Round
 ```Used pseudorandom number generator in R to assign```
 
-* Team 1 (Affirmative) *versus* Team 3 (Negative): **Topic 1**
-* Team 4 (Affirmative) *versus* Team 7 (Negative): **Topic 4**
-* Team 2 (Affirmative) *versus* Team 5 (Negative): **Topic 3**
-* Team 6 (Affirmative) *versus* Team 8 (Negative): **Topic 2**
-#### Second Round
-* Left Bracket: **Topic 6** (winner of Team 1 v 3 is Affirmative)
-* Right Bracket: **Topic 5** (winner of Team 2 v 5 is Affirmative)
+* Team 1 (Affirmative) *versus* Team 4 (Negative): **Topic 1**
+* Team 2 (Affirmative) *versus* Team 5 (Negative): **Topic 4**
+* Team 3 (Affirmative) *versus* Team 6 (Negative): **Topic 3**
+
 #### Final Round
-* Resolved; There should be a Federally-mandated standard for interoperability
-(Left is Affirmative, Right is Negative)
+* Resolved; **Topic 2**
+(Top is Affirmative,Bottom is Negative) **See Bracket Above**
+
 ___
 ### Debate Format
 1. Affirmative Opening Arguments (5 mins)
@@ -36,8 +32,10 @@ ___
 1. Negative Closing Arguments (5 mins)
 1. Audience Vote
 ___
-### Potential Debate Topics
-1. Resolved; on-premise computing infrastructure is superior to cloud infrastructure in healthcare
-2. Resolved; that the FDA should regulate machine learning based clinical decison support
-3. Resolved; health systems should own patient health records
-4. Resolved; that the Federal Government should mandate standards for interoperability
+### Metrics to Determine Winner
+Individuals are predisposed toward each topic of interest. To be fair, we want to control for these
+feelings and provide a fair metric that determines the winner of the debate. One metric is:
+
+```
+\frac{# POST}{# PRE}
+``` 
