@@ -1,4 +1,5 @@
 # Lecture 7 Readings
+### Borrowing from my old course materials for the MIDS lecture on 2020-04-14
 ___
 
 ### Papers Lecture 7 Assignment
