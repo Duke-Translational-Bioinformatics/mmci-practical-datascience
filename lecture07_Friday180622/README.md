@@ -3,6 +3,14 @@ ___
 
 ### Papers Lecture 7 Assignment
 ```
+What Really Brought Down the Boeing 737 Max?
+
+William Langewiesche
+
+New York Times
+```
+https://www.nytimes.com/2019/09/18/magazine/boeing-737-max-crashes.html
+```
 Opinion | Artificial Intelligence’s White Guy Problem.
 
 Kate Crawford.
